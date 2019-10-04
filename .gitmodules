@@ -1,6 +1,0 @@
-[submodule "fast-style-transfer"]
-	path = fast-style-transfer
-	url = git@github.com:vndrewlee/fast-style-transfer.git
-[submodule "fast-style-transfer-deeplearnjs"]
-	path = fast-style-transfer-deeplearnjs
-	url = git@github.com:vndrewlee/fast-style-transfer-deeplearnjs.git
